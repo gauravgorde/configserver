@@ -19,7 +19,7 @@ eureka:
   client:
     fetch-registry: true
     service-url:
-      defaultZone: http://localhost:8001/eureka
+      defaultZone: http://localhost:8761/eureka
 redis.server.host: "localhost"
 redis.server.port: "6379"
 cacheService.host: "localhost"
