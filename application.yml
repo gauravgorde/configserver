@@ -24,4 +24,6 @@ redis.server.host: "localhost"
 redis.server.port: "6379"
 cacheService.host: "localhost"
 cacheService.port: "8004"
-
+cache.service.url: "http://localhost:8004"
+bookService.host: "localhost"
+bookService.port: "8005"
