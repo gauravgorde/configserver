@@ -14,10 +14,10 @@ spring:
         use_sql_comments: true
     
 
-redis.server.host: "localhost"
+redis.server.host: "172.18.0.2"
 redis.server.port: "6379"
-cacheService.host: "localhost"
+cacheService.host: "172.18.0.2"
 cacheService.port: "8003"
 cache.service.url: "http://localhost:8004"
-bookService.host: "localhost"
+bookService.host: "172.18.0.2"
 bookService.port: "8004"
