@@ -14,7 +14,7 @@ spring:
         use_sql_comments: true
     
 
-redis.server.host: "172.18.0.2"
+redis.server.host: "localhost"
 redis.server.port: "6379"
 cacheService.host: "172.18.0.2"
 cacheService.port: "8003"
